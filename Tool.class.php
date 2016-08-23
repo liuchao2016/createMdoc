@@ -6,10 +6,10 @@
 
 *	类前声明模板
 * @title 任务
-* @author xietg
+* @author liuchao
 * @version 1.6
 * @date 2015/1/20
-* @update 3.1
+* @update 3
 * @updateTime 2016/4/21
 
 *	接口模板
